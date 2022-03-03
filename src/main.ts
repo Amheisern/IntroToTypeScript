@@ -10,3 +10,7 @@ const personName = 'mary'
 if (personName == 'mary') {
   console.log('nice')
 }
+
+//valueless variable
+let studentName: any
+console.log(studentName)
